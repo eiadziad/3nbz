@@ -1,0 +1,17 @@
+{
+  "name": "3nb-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "moment-timezone": "^0.5.44",
+    "request": "^2.88.2",
+    "tmi.js": "^1.8.5"
+  }
+}
